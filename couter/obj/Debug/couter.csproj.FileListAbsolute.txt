@@ -1,0 +1,11 @@
+C:\Users\Meru\source\repos\couter\couter\bin\Debug\couter.exe.config
+C:\Users\Meru\source\repos\couter\couter\bin\Debug\couter.exe
+C:\Users\Meru\source\repos\couter\couter\bin\Debug\couter.pdb
+C:\Users\Meru\source\repos\couter\couter\obj\Debug\couter.csproj.AssemblyReference.cache
+C:\Users\Meru\source\repos\couter\couter\obj\Debug\couter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Meru\source\repos\couter\couter\obj\Debug\couter.Form1.resources
+C:\Users\Meru\source\repos\couter\couter\obj\Debug\couter.Properties.Resources.resources
+C:\Users\Meru\source\repos\couter\couter\obj\Debug\couter.csproj.GenerateResource.cache
+C:\Users\Meru\source\repos\couter\couter\obj\Debug\couter.csproj.CoreCompileInputs.cache
+C:\Users\Meru\source\repos\couter\couter\obj\Debug\couter.exe
+C:\Users\Meru\source\repos\couter\couter\obj\Debug\couter.pdb
